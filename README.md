@@ -34,15 +34,23 @@ En el caso de que provoque un accidente al chocar con los coches que se aproxima
 
 
 Auto ferrari:Es el desendera en la pista y sera el obtaculo de los niveles 
-![ferrari](https://user-images.githubusercontent.com/86617603/130299437-6241c720-3db1-447b-839a-9eb4cb8186ff.png)
+
 Auto mclaren:Es el auto que hace todas las funcionalidades de movientos para asi poder esquivar los ostaculos e ir pasando de nivel
-![mclaren](https://user-images.githubusercontent.com/86617603/130299426-7e65cce0-ac80-45bb-8472-1918d90fc95f.png)
+
 
 
 
 ```
 Archivo ejecutable del proyecto 
+https://github.com/VictorMcc/Proyecto_POOgame
 
+Enlace a diagramado UML 
+https://lucid.app/lucidchart/invitations/accept/inv_c3cc9dd9-e436-434f-a8a7-ffa0369cca42?viewport_loc=-36%2C-104%2C1480%2C616%2C0_0
+
+Enlace a youtube 
+https://youtu.be/J2C83CyRl3w
+o
+https://youtu.be/DinilgacaWs
 
 ### Jekyll Themes
 

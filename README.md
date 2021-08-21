@@ -62,4 +62,11 @@ https://youtu.be/DinilgacaWs
   En conclusión de este proyecto es el desarrollo de una solución basada en la herramienta software Greenfoot para el apoyo de la enseñanza temprana en la POO. Los objetivos que se pretenden satisfacer son: · Desarrollo de un escenario basado en la herramienta Greenfoot que pretende proveer al estudiante de una manera nueva de reafirmar los conceptos básicos que debe poseer de la POO. El estudiante no necesitará tener ningún conocimiento acerca de la herramienta Greenfoot, puesto que su código Java implementado en la herramienta jGrasp, es adaptado totalmente a Greenfoot sin que ellos tengan que realizar ningún cambio. Ingeniería Técnica en Informática de Gestión
 
 
+Alumno: Víctor Manuel Cortez Cortez
+Carrera: Ingeniería en software y sistemas computacionales
+Docente: Kevin Armando Luciano García
+Asignatura: DesayPrograOrientaaObjetos
+6to Cuatrimestre — Ciclo escolar: .-Agot- Dic.2021
+Origen de la programación orientada a objetos
+
 

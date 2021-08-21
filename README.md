@@ -43,10 +43,14 @@ Auto mclaren:Es el auto que hace todas las funcionalidades de movientos para asi
 
 
 ```
+Copia y pega en tu navegador para evitar redirecciones desconocidas
+
 ### Enlace a archivo ejecutable 
+ 
 https://github.com/VictorMcc/Proyecto_POOgame
 
-### Enlace a diagrma UML
+### Enlace a diagrama UML
+
 https://lucid.app/lucidchart/invitations/accept/inv_c3cc9dd9-e436-434f-a8a7-ffa0369cca42?viewport_loc=-36%2C-104%2C1480%2C616%2C0_0
 
 ### Enlace a YOUTUBE

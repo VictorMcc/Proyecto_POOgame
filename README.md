@@ -63,10 +63,15 @@ https://youtu.be/DinilgacaWs
 
 
 Alumno: Víctor Manuel Cortez Cortez
+
 Carrera: Ingeniería en software y sistemas computacionales
+
 Docente: Kevin Armando Luciano García
+
 Asignatura: DesayPrograOrientaaObjetos
+
 6to Cuatrimestre — Ciclo escolar: .-Agot- Dic.2021
+
 Origen de la programación orientada a objetos
 
 

@@ -10,6 +10,8 @@ OBJETIVO DEL JUEGO
 
 Para este juego utilizamos la plataforma de [editor on GitHub](https://github.com/VictorMcc/Proyecto_POOgame/edit/main/README.md) para subir los archivos de nuetro proyecto de game finally, Creando nuestro respectivo repositorio y utilizando la pagina como presentación del proyecto en el que se trabajo. 
 
+Herramienta utilizada para la creación del juego 
+
 Greenfoot: Es un ambiente interactivo de desarrollo Java para propósitos educacionales. Permite la creación de aplicaciones gráficas en dos dimensiones, como simulaciones y juegos. 
 GrenFoot la utilizamos para crear el juego interactivo de game finally trabajando de forma interactiva con tutorial de creación para la introduccion a la programación orientada a objetos. 
 Greenfoot es un software libre y gratuito, enfocado esencialmente a adolescentes que desean iniciarse en el mundo de la programación y más concretamente en el lenguaje Java.Aunque existen otras herramientas similares, Greenfoot es más potente que estas herramientas y aunque no llega a ser un entorno de desarrollo profesional, se puede entender como una “aproximación” al mismo.
@@ -41,21 +43,23 @@ Auto mclaren:Es el auto que hace todas las funcionalidades de movientos para asi
 
 
 ```
-Archivo ejecutable del proyecto 
+Archivo ejecutable del proyecto:
 https://github.com/VictorMcc/Proyecto_POOgame
 
-Enlace a diagramado UML 
+Enlace a diagramado UML :
 https://lucid.app/lucidchart/invitations/accept/inv_c3cc9dd9-e436-434f-a8a7-ffa0369cca42?viewport_loc=-36%2C-104%2C1480%2C616%2C0_0
 
-Enlace a youtube 
+Enlace a youtube: 
 https://youtu.be/J2C83CyRl3w
 o
 https://youtu.be/DinilgacaWs
 
-### Jekyll Themes
+### Enlace a el juego en la plataforma de GreenFoot
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/VictorMcc/Proyecto_POOgame/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+    https://www.greenfoot.org/scenarios/28415
+    
+### CONCLUSIÓN 
+  En conclusión de este proyecto es el desarrollo de una solución basada en la herramienta software Greenfoot para el apoyo de la enseñanza temprana en la POO. Los objetivos que se pretenden satisfacer son: · Desarrollo de un escenario basado en la herramienta Greenfoot que pretende proveer al estudiante de una manera nueva de reafirmar los conceptos básicos que debe poseer de la POO. El estudiante no necesitará tener ningún conocimiento acerca de la herramienta Greenfoot, puesto que su código Java implementado en la herramienta jGrasp, es adaptado totalmente a Greenfoot sin que ellos tengan que realizar ningún cambio. Ingeniería Técnica en Informática de Gestión
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
